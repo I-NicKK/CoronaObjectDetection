@@ -1,7 +1,7 @@
 # Final project CS583
 This is the final project for CS583 class, in this project I created a web based application using python and flask that takes in an image as an input from the user, performs image recognition to find the name of the object if it belongs to these classes:
-Pan
 <ul>
+<li>Pan</li>
 <li>Shipping Box</li>
 <li>Soda Can</li>
 <li>Table</li>
@@ -27,4 +27,4 @@ Then outputs how long can coronavirus last on these surfaces.
 5. You'll get result on how long can coronavirus last on that surface
 
 ## Results
-<img src = "https://ibb.co/yhtGv5y">
+<img src = "https://imgur.com/iSSdQx9">
