@@ -27,4 +27,4 @@ Then outputs how long can coronavirus last on these surfaces.
 5. You'll get result on how long can coronavirus last on that surface
 
 ## Results
-<img src = "https://imgur.com/iSSdQx9">
+<img src = "https://serving.photos.photobox.com/9713975974609a7a01a5f0a69b516a7aed954196387da61523486fe71704feab635c01af.jpg">
