@@ -14,7 +14,7 @@ Then outputs how long can coronavirus last on these surfaces.
 ## Dependencies
 1. The data is included with the project inside tf_files/objects/ directory
 2. Python
-3. Tensorflow
+3. Tensorflow(pip install tensorflow==1.14) won't work with tensorflow 2.0
 4. Anaconda would be preferable as it comes with most of the libraries installed but project will work without it
 5. Flask
 6. Libraries like Numpy, Scipy etc.
