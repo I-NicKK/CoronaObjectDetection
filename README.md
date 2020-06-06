@@ -26,3 +26,5 @@ Then outputs how long can coronavirus last on these surfaces.
 4. After uploading the image hit submit
 5. You'll get result on how long can coronavirus last on that surface
 
+## Results
+<img src = "https://ibb.co/yhtGv5y">
