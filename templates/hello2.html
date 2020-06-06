@@ -1,0 +1,41 @@
+<!doctype html>
+<html>
+<head>
+<title>PP</title>
+<style>
+body{
+width: 100%;
+  
+  padding: 380px 0;
+  text-align: center;
+ 
+  background: url("/static/background.jpg") no-repeat bottom center scroll;
+  color: white;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+
+}
+
+
+
+</style>
+</head>
+   <body>
+   <br><br>
+   
+	<h1> Detailed Results</h1>	
+
+<img src = {{ url }}>
+<ul>
+<li>Object Name : {{ object }}</li>
+  <li>Belongs to class : {{ surface }}</li>
+  <li>Coronavirus can last from : {{ time1 }} to {{ time2 }}</li>
+  <li>Other related items : {{items}} </li>
+</ul>
+	
+	
+	
+   </body>
+</html>

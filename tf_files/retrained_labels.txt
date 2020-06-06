@@ -1,0 +1,7 @@
+backpack
+glass
+pan
+paper
+shipping_box
+soda_can
+table
